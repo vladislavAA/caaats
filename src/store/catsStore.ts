@@ -48,7 +48,6 @@ class CatsData {
   }
 
   getIdMap(id: string): boolean {
-    console.log("fun - ", this.idMap.has(id));
     return this.idMap.has(id);
   }
 
