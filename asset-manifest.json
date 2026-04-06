@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/caaats/static/css/main.f38f84a2.css",
-    "main.js": "/caaats/static/js/main.bf48d54e.js",
+    "main.js": "/caaats/static/js/main.f9ebef5a.js",
     "index.html": "/caaats/index.html",
     "main.f38f84a2.css.map": "/caaats/static/css/main.f38f84a2.css.map",
-    "main.bf48d54e.js.map": "/caaats/static/js/main.bf48d54e.js.map"
+    "main.f9ebef5a.js.map": "/caaats/static/js/main.f9ebef5a.js.map"
   },
   "entrypoints": [
     "static/css/main.f38f84a2.css",
-    "static/js/main.bf48d54e.js"
+    "static/js/main.f9ebef5a.js"
   ]
 }
